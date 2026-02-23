@@ -7,7 +7,7 @@ The objective was to identify key churn drivers, quantify revenue impact, and pr
 
 This project demonstrates the complete analytics workflow — from data extraction to business insight generation.
 
----
+
 
 ## Project Architecture
 
@@ -16,13 +16,13 @@ This project demonstrates the complete analytics workflow — from data extracti
 - **Power BI** – Interactive dashboard development  
 - **DAX** – KPI calculations and revenue impact metrics  
 
----
+
 
 ## Business Objective
 
 Reduce churn rate from **47.89% to below 35% within 6 months** through targeted retention strategies.
 
----
+
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ Reduce churn rate from **47.89% to below 35% within 6 months** through targeted 
 - **Power BI** – Dashboard development  
 - **DAX** – KPI calculations (Revenue Lost, Churn Rate, Revenue at Risk)
 
----
+
 
 ## Key KPIs
 
@@ -42,7 +42,7 @@ Reduce churn rate from **47.89% to below 35% within 6 months** through targeted 
 - Revenue at Risk: 49.62%  
 - Average Monthly Charges: $69.74  
 
----
+
 
 ## Key Insights
 
@@ -52,7 +52,7 @@ Reduce churn rate from **47.89% to below 35% within 6 months** through targeted 
 - Short-tenure customers are most vulnerable  
 - Nearly 50% of revenue is at risk  
 
----
+
 
 ## Strategic Recommendations
 
@@ -61,7 +61,7 @@ Reduce churn rate from **47.89% to below 35% within 6 months** through targeted 
 ✔ Improve the first 90-day onboarding experience  
 ✔ Introduce flexible pricing tiers  
 
----
+
 
 ## Skills Demonstrated
 
@@ -72,7 +72,7 @@ Reduce churn rate from **47.89% to below 35% within 6 months** through targeted 
 - KPI Design with DAX  
 - Business Insight Generation  
 
----
+
 
 ## Outcome
 
